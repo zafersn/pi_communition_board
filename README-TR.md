@@ -5,6 +5,9 @@
 
 
 # Transmitter Kit'e Genel Bakış
+![Top View render 1](https://github.com/zafersn/pi_communition_board/blob/master/img/1.PNG)
+
+![Top View render 2](https://github.com/zafersn/pi_communition_board/blob/master/img/2.PNG)
 
 ![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/12.png)
 
@@ -28,9 +31,12 @@ Adet | Ürün Adı | Açıklama
 # Receive Kit'e Genel Bakış
 
 
-![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/4.PNG)
+![Top View render rx 1](https://github.com/zafersn/pi_communition_board/blob/master/img/4.PNG)
 
-![Bottom View](https://github.com/zafersn/pi_communition_board/blob/master/img/5.PNG)
+![Top View render rx 2](https://github.com/zafersn/pi_communition_board/blob/master/img/5.PNG)
+
+![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/IMG_20181009_000304.jpg)
+
 
 Adet | Ürün Adı | Açıklama
 ------------|---------| -------------
