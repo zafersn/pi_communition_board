@@ -28,9 +28,9 @@ Adet | Ürün Adı | Açıklama
 # Receive Kit'e Genel Bakış
 
 
-![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/4.png)
+![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/4.PNG)
 
-![Bottom View](https://github.com/zafersn/pi_communition_board/blob/master/img/5.png)
+![Bottom View](https://github.com/zafersn/pi_communition_board/blob/master/img/5.PNG)
 
 Adet | Ürün Adı | Açıklama
 ------------|---------| -------------
