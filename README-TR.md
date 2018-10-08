@@ -2,6 +2,11 @@
 
 # Transmitter Kit'e Genel Bakış
 
+![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/12.png)
+
+![Bottom View](https://github.com/zafersn/pi_communition_board/blob/master/img/10.png)
+
+
 Adet | Ürün Adı | Açıklama
 ------------|---------| -------------
 1 | ESP32 Joystick Ana kartı | BLE + WiFi
