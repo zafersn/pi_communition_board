@@ -1,10 +1,10 @@
 # Pi HABERLEŞME KARTI
 
 # 1. Genel Bakış
-Kullanıcıların Bluetooth, WiFi ve RF haberleşme teknolojileri üzerine geliştirme yapmak, programlamayı eğlenceli kılmak aynı zamanda uygulamaya yönelik öğrenme becerilerini geliştirmek amacıyla alıcı ve verici devresi olarak tasarlanmış bir geliştirme kartıdır.
+  Kullanıcıların Bluetooth, WiFi ve RF haberleşme teknolojileri üzerine geliştirme yapmak, programlamayı eğlenceli kılmak aynı zamanda uygulamaya yönelik öğrenme becerilerini geliştirmek amacıyla alıcı ve verici devresi olarak tasarlanmış bir geliştirme kartıdır.
 Arduino IDE' nİn geniş kütüphane, hızlı programlama, sadeliği gibi birçok desteğinide arkasına alan, fiyat performans kalitesi olarakta öne çıkan ESP32 cipset ailesinin işlevselliğini değerlendirmelerine olanak sağlamaktadır. Bu kit( Pi_CAR Haberleşme Kartı ), uygulama geliştiricilerinin fikirlerini ESP32 serisi donanımı etrafında (RC-CAR Araç kontrol Senaryosu üzerine kurularak) oluşturmasına yardımcı olan temel donanım(BLE4.2, WiFi, RF) ve yazılım kaynaklarını sağlar. Pi_CAR Haberleşme Kartı yazılım geliştirme çerçevesi, Wi-Fi, Bluetooth, RF, güç yönetimi ve diğer bazı sistem özellikleri ile hızla gelişen İnternet Nesneleri (IoT) uygulamları ve Robotik (ROS (Robot operating System)) uygulamaları geliştirmek için tasarlanmıştır.
 
-![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/pi_communition%20board5.png)
+![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
 # 2. Block Diyagram ve PCB'Lere Genel Bakış
 
