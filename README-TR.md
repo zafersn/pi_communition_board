@@ -49,7 +49,6 @@ Adet | Ürün Adı | Açıklama
 1 | Micro USB | Programlama ve haberleşme için USB 'den seri bağlantı dönüştürücü
 1 | JTAG Debugging | Programlama ve Debug için.
 1 | FPV Camera Girişi |
-1 | FPV Power I/O |
 40| Harici I/O | PWM/SPI/USART/I2C/GPIO
 
 
