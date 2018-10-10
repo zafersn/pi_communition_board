@@ -10,8 +10,15 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
 
 
 ## 2.1 Transmitter Kit'e Genel Bakış
+### Üstten Görünüş
+
 ![Top View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/TX_Board4.png)
+
+### Alttan Görünüş
+
 ![Bottom View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/TX_Board_Bttm2.png)
+
+
 ![Top View render 1](https://github.com/zafersn/pi_communition_board/blob/master/img/1.PNG)
 
 ![Top View render 2](https://github.com/zafersn/pi_communition_board/blob/master/img/2.PNG)
