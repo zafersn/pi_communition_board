@@ -80,5 +80,15 @@ Adet | Ürün Adı | Açıklama
 1 | FPV Camera Girişi |
 40| Harici I/O | PWM/SPI/USART/I2C/GPIO
 
+#Örnek Uygulama Videoları
+
+## Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)
+
+[![Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)](https://img.youtube.com/vi/L5YpyjPOgC0/0.jpg)](https://youtu.be/L5YpyjPOgC0)
+
+## Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board)
+
+[![Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board))](https://img.youtube.com/vi/Qxs-DMT6eOg/0.jpg)](https://youtu.be/Qxs-DMT6eOg)
+
 
 
