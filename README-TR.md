@@ -31,15 +31,18 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
 
  &emsp;Pi_CAR Transmitter Kartımız 2 adet Thumb Joystick ya da 1 Adet Thumb joystick ve 4 adet Tact Switch Button şeklinde konfigure edilerek kullanılabilir. Tranmitter kartı, kullanıcı ile receive kartı arasında RF üzerinden yaklaşık 1KM 'ye yakın bağlantı kurulmasını,buna ek olarak Bluetooth ve WiFi bağlantısı ile kullanıcıya yakın çevre birimleri ile iletişim kurulmasını ve spesifik uygulamar geliştirilmesini amaçlanmaktadır (VR, Cloud, telefon, pc vb...). 
  
-### Üstten Görünüş
+Üstten Görünüş
+=================
 
 ![Top View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/TX_Board4.png)
 
-### Alttan Görünüş
+Alttan Görünüş
+=================
 
 ![Bottom View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/TX_Board_Bttm2.png)
 
-### 3D Render Görünümler
+3D Render Görünümler
+=================
 
 ![Top View render 1](https://github.com/zafersn/pi_communition_board/blob/master/img/1.PNG)
 
@@ -68,15 +71,18 @@ Adet | Ürün Adı | Açıklama
 
 ## 2.2 Receive Kit'e Genel Bakış
 
-### Üstten Görünüş
+Üstten Görünüş
+=================
 
 ![Top View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/Rx_BOARD.png)
 
-### Alttan Görünüş
+Alttan Görünüş
+=================
 
 ![Bottom View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/Rx_BOARD_bottom.png)
 
-### 3D Render Görünümler
+3D Render Görünümler
+=================
 
 ![Top View render rx 1](https://github.com/zafersn/pi_communition_board/blob/master/img/4.PNG)
 
