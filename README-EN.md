@@ -19,7 +19,7 @@ Table of contents
 <!--te-->
 
 # 1. Overview
-&emsp;  It is a development board(**``Pi_CAR JOYSTICK BOARD``**) designed as a receiver and transmitter circuit for users to develop themselves on **``Bluetooth``**, **``WiFi``** and **``RF``** communication technologies, to make programming fun, and to develop application-oriented learning skills.
+&emsp;  It is a development board(**``Pi_CAR JOYSTICK BOARD``**) designed as a receiver and transmitter circuit for users to develop themselves on **``Bluetooth``**, **``WiFi``** and **``RF``** communication technologies, to make programming fun, and to develop application-oriented learning skills.<br>
   Arduino IDE's extensive library, fast programming and simplicity, such as support behind many, as the price performance quality of the prominent ESP32 chipset family allows you to evaluate the functionality. This kit (Pi_CAR Communication Card) provides basic hardware (BLE 4.2, WiFi, RF) and software resources that help application developers build their ideas around the ESP32 series hardware (based on the RC-CAR Vehicle control Scenario).The Pi_CAR Communication Card software development framework is designed to develop fast-growing  **``Internet of Things (IoT)``** applications and  **``Robotics (ROS (Robot Operating System))``** applications with  **``Wi-Fi``**,  **``Bluetooth``**,  **``RF``**, power management and some other system features.
   
   ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
@@ -51,19 +51,19 @@ Bottom View
 
 ![Bottom View](https://github.com/zafersn/pi_communition_board/blob/master/img/10.png)
 
-Adet | Ürün Adı | Açıklama
+Piece | Product Name | Description
 ------------|---------| -------------
-1 | ESP32 Joystick Ana kartı | BLE + WiFi
-2 | Thumb Joysticks | 2 Eksen Kontrol
+1 | ESP32 Joystick Main Board | BLE + WiFi
+2 | Thumb Joysticks | 2 Axis Control
 4 | Momentary Pushbutton Switch | 12mm 
-2 | NRF24L01 | ~1KM Menzil - Alıcı ve Verici
-1 | MikroBUS | Standartlaştırılmış Genişletme Kartı Desteği  <p>[Bakınız: MicroBUS](https://www.mikroe.com/mikrobus)</p>
+2 | NRF24L01 | ~1KM Range - Receiver and Transmitter
+1 | MikroBUS | Standardized Expansion Card Socket Support  <p>[See: MicroBUS](https://www.mikroe.com/mikrobus)</p>
 1 | Micro SD Socket| 
 2 | RGB LED 
-3 | FPV Güç I/O | Board ile İzole 
-1 | Güç Girişi | 6V - 18V
-1 | Micro USB | Programlama ve haberleşme için USB 'den seri bağlantı dönüştürücü
-1 | JTAG Debugging | Programlama ve Debug için.
+3 | FPV Power I/O |Separated from the board power circuit.
+1 | Power In  | 6V - 18V
+1 | Micro USB | Serial to USB converter for programming and communication
+1 | JTAG Debugging | for Programming and Debugging
 
 ## 2.2 Receive Kit Overview
 Top View
@@ -86,23 +86,26 @@ Bottom View
 ![Top View](https://github.com/zafersn/pi_communition_board/blob/master/img/15.jpg)
 
 
-Adet | Ürün Adı | Açıklama
+Piece | Product Name | Description
 ------------|---------| -------------
-1 | ESP32 Joystick Ana kartı | BLE + WiFi
-2 | NRF24L01 | ~1KM Menzil - Alıcı ve Verici
-1 | MikroBUS | Standartlaştırılmış Genişletme Kartı Desteği  <p>[Bakınız: MicroBUS](https://www.mikroe.com/mikrobus)</p>
+1 | ESP32 Joystick Main Board | BLE + WiFi
+2 | NRF24L01 | ~1KM Range - Receiver and Transmitter
+1 | MikroBUS | Standardized Expansion Card Socket Support  <p>[See: MicroBUS](https://www.mikroe.com/mikrobus)</p>
 2 | RGB LED 
-3 | FPV Güç I/O | Board ile İzole 
-1 | Güç Girişi | 6V - 18V
-1 | Micro USB | Programlama ve haberleşme için USB 'den seri bağlantı dönüştürücü
-1 | JTAG Debugging | Programlama ve Debug için.
-1 | FPV Camera Girişi |
-40| Harici I/O | PWM/SPI/USART/I2C/GPIO
+3 | FPV Power I/O | Separated from the board power circuit.
+1 | Power IN | 6V - 18V
+1 | Micro USB | Serial to USB converter for programming and communication
+1 | JTAG Debugging | For Programming and Debugging
+1 | FPV Camera Input |
+40| External I / O | PWM/SPI/USART/I2C/GPIO
 
 # 3. Sample Demo Videos
 
 Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)
 =================
 
+[![Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)](https://img.youtube.com/vi/L5YpyjPOgC0/0.jpg)](https://youtu.be/L5YpyjPOgC0)
+
 Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board)
 =================
+[![Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board))](https://img.youtube.com/vi/Qxs-DMT6eOg/0.jpg)](https://youtu.be/Qxs-DMT6eOg)
