@@ -4,7 +4,7 @@ Table of contents
 =================
 <!--ts-->
    * [1. Overview](#1-overview)
-      * [1.1 Goals and Objectives](#1-overview)
+      * [1.1 Goals and Objectives](#11-goals-and-objectives)
    * [2. Block Diagram and PCBs Overview](#2-block-diagram-and-pcbs-overview)
       * [2.1 Transmitter Kit Overview](#21-transmitter-kit-overview)
         * [Top View](#top-view)
