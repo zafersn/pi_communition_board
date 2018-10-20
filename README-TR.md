@@ -23,29 +23,24 @@
 Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birçok desteğini de arkasına alan, fiyat performans kalitesi olarak da öne çıkan ESP32 cipset ailesinin işlevselliğini değerlendirmelerine olanak sağlamaktadır. Bu kit ( Pi_CAR Joystick Kartı ), uygulama geliştiricilerinin fikirlerini ESP32 serisi donanımı etrafında (RC-CAR Araç kontrol Senaryosu üzerine kurularak) oluşturmasına yardımcı olan temel donanım ( BLE 4.2, WiFi, RF ) ve yazılım kaynaklarını sağlar. Pi_CAR Joystick Kartı yazılım geliştirme çerçevesi,**`` Wi-Fi``**, **``Bluetooth``**,**`` RF``**, güç yönetimi ve diğer bazı sistem özellikleri ile hızla gelişen **``Nesnelerin İnterneti (IoT) uygulamları``** ve **``Robotik (ROS (Robot Operating System)) uygulamaları``** geliştirmek için tasarlanmıştır. 
 
 ## 1.1 Pi_CAR Joystick Kartı Amaçları
-### 1.1.1 Temel Amaçlar
+### 1.1.1 Temel Amaçlar ve Kazanılması Beklenen Tecrübeler
 
-**1.** ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi 
-**2.** Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme 
-**3.** Nesnelerin İnterneti (IoT) uygulamları geliştirme
-**4.** ROS (Robot Operating System) uygulamaları geliştirme. 
+* 1. ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi
+       * a. ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
+       * b. ESP32'nin Arduino IDE ile programlama ve kullanım.
+       * c. Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
+       * d. Debugging ( GDB kullanılarak hata ayıklama )
+* 2. Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme 
+       * a. Bluetooth, WiFi, RF Uygulamaları geliştirme
+       * b. TCP, UDP Uygulamaları geliştirme
+* 3. Nesnelerin İnterneti (IoT) uygulamları geliştirme
+       * a. MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
 
-### 1.1.2 Kazanılması Beklenen Tecrübeler
- **1.a.** ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
- **1.b.** ESP32'nin Arduino IDE ile programlama ve kullanım.
- **1.c.** Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
- **1.d.** Debugging ( GDB kullanılarak hata ayıklama )
- 
- **2.a.** Bluetooth, WiFi, RF Uygulamaları geliştirme
- **2.b.** TCP, UDP Uygulamaları geliştirme
- 
- **3.a.** MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
+* 4. ROS (Robot Operating System) uygulamaları geliştirme. 
+       * a. ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
+       * b. Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
+       
 
- **4.a.** ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
- **4.b.** Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
- 
- 
- 
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
 # 2. Block Diyagram ve PCB'Lere Genel Bakış
