@@ -34,12 +34,13 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
   * Bluetooth, WiFi, RF Uygulamaları geliştirme
   * TCP, UDP Uygulamaları geliştirme
 *  Nesnelerin İnterneti (IoT) uygulamları geliştirme
-   * MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
+   * MQTT, HTTP haberleşme protokollerini öğrenme
+   * IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
 
 *  ROS (Robot Operating System) uygulamaları geliştirme. 
    * ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
-   * Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
-       
+   * Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.<br><br>    
+     
 
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
