@@ -4,6 +4,7 @@ Table of contents
 =================
 <!--ts-->
    * [1. Overview](#1-overview)
+      * [1.1 Goals and Objectives](#1-overview)
    * [2. Block Diagram and PCBs Overview](#2-block-diagram-and-pcbs-overview)
       * [2.1 Transmitter Kit Overview](#21-transmitter-kit-overview)
         * [Top View](#top-view)
@@ -19,9 +20,27 @@ Table of contents
 <!--te-->
 
 # 1. Overview
-&emsp;  It is a development board(**``Pi_CAR JOYSTICK BOARD``**) designed as a receiver and transmitter circuit for users to develop themselves on **``Bluetooth``**, **``WiFi``** and **``RF``** communication technologies, to make programming fun, and to develop application-oriented learning skills.<br>
-  Arduino IDE's extensive library, fast programming and simplicity, such as support behind many, as the price performance quality of the prominent ESP32 chipset family allows you to evaluate the functionality. This kit (Pi_CAR Communication Card) provides basic hardware (BLE 4.2, WiFi, RF) and software resources that help application developers build their ideas around the ESP32 series hardware (based on the RC-CAR Vehicle control Scenario).The Pi_CAR Communication Card software development framework is designed to develop fast-growing  **``Internet of Things (IoT)``** applications and  **``Robotics (ROS (Robot Operating System))``** applications with  **``Wi-Fi``**,  **``Bluetooth``**,  **``RF``**, power management and some other system features.
-  
+&emsp;  It is a development board(**Pi_CAR JOYSTICK BOARD**) designed as a receiver and transmitter circuit for users to develop themselves on **Bluetooth**, **WiFi** and **RF** communication technologies, to make programming fun, and to develop application-oriented learning skills. Arduino IDE's extensive library, fast programming and simplicity, such as support behind many, as the price performance quality of the prominent ESP32 chipset family allows you to evaluate the functionality. This kit (Pi_CAR Communication Card) provides basic hardware (BLE 4.2, WiFi, RF) and software resources that help application developers build their ideas around the ESP32 series hardware (based on the RC-CAR Vehicle control Scenario).The Pi_CAR Communication Card software development framework is designed to develop fast-growing  **Internet of Things (IoT)** applications and  **Robotics (ROS (Robot Operating System))** applications with  **Wi-Fi**,  **Bluetooth**,  **RF**, power management and some other system features.
+
+## 1.1 Goals and Objectives
+
+* Development of ESP32-WROOM-32's structure, function and applications
+  * Programming and use of ESP32 with ESP-IDF. (On Eclipse)
+  * Programming and use of ESP32 with Arduino IDE
+  * Using of Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO etc...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer etc...) on ESP32.
+  * Debugging  using GDB
+* Learning Bluetooth, WiFi, RF Communication Protocols and Developing Applications
+  * Developing Applications with Bluetooth, WiFi, RF
+  * Developing TCP, UDP Applications
+*  Developing Internet of Things (IoT) Applications
+   * Learning MQTT, HTTP Communication Protocols
+   * Developing Application with IBM Watson IoT Platform or IVEN Cloud Platform 
+
+*  Developing ROS (Robot Operating System) Applications. 
+   * Use and creation of ROS(Robot Operating System)'s structure (Nodes, Topics, Messages, Publisher, Subscriber, Services etc...), libraries, tools.
+   * Using of Gazebosim tools, Modelling, simulation and Communication with ROS.<br><br>    
+ 
+
   ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
 # 2. Block Diagram and PCBs Overview
@@ -64,6 +83,7 @@ Piece | Product Name | Description
 1 | Power In  | 6V - 18V
 1 | Micro USB | Serial to USB converter for programming and communication
 1 | JTAG Debugging | for Programming and Debugging
+1 |  Board size 99 x 61 mm | Without RF SMA Anten 
 
 ## 2.2 Receive Kit Overview
 Top View
@@ -98,7 +118,7 @@ Piece | Product Name | Description
 1 | JTAG Debugging | For Programming and Debugging
 1 | FPV Camera Input |
 40| External I / O | PWM/SPI/USART/I2C/GPIO
-
+1 |  Board size 89 x 52 mm | Without RF SMA Anten 
 # 3. Sample Demo Videos
 
 Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)
