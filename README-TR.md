@@ -25,20 +25,20 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
 ## 1.1 Pi_CAR Joystick Kartı Amaçları
 ### 1.1.1 Temel Amaçlar ve Kazanılması Beklenen Tecrübeler
 
-* 1. ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi
-       * a. ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
-       * b. ESP32'nin Arduino IDE ile programlama ve kullanım.
-       * c. Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
-       * d. Debugging ( GDB kullanılarak hata ayıklama )
-* 2. Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme 
-       * a. Bluetooth, WiFi, RF Uygulamaları geliştirme
-       * b. TCP, UDP Uygulamaları geliştirme
-* 3. Nesnelerin İnterneti (IoT) uygulamları geliştirme
-       * a. MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
+* ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi
+       * ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
+       * ESP32'nin Arduino IDE ile programlama ve kullanım.
+       * Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
+       * Debugging ( GDB kullanılarak hata ayıklama )
+* Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme 
+       * Bluetooth, WiFi, RF Uygulamaları geliştirme
+       * TCP, UDP Uygulamaları geliştirme
+*  Nesnelerin İnterneti (IoT) uygulamları geliştirme
+       * MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
 
-* 4. ROS (Robot Operating System) uygulamaları geliştirme. 
-       * a. ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
-       * b. Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
+*  ROS (Robot Operating System) uygulamaları geliştirme. 
+       * ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
+       * Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
        
 
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
