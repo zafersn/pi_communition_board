@@ -4,7 +4,7 @@
 
 <!--ts-->
    * [1. Genel Bakış](#1-genel-bakış)
-      * [1.1 Pi_CAR Joystick Kartının Temel Amaçlar ve Kazandırması Beklenen Tecrübeler](#11-pi_car-joystick-kartının-temel-amaçlar-ve-kazandırması-beklenen-tecrübeler)
+      * [1.1  Amaç ve Hedefler](#11-pi_car-joystick-kartının-temel-amaçlar-ve-kazandırması-beklenen-tecrübeler)
    * [2. Block Diyagram ve PCB'Lere Genel Bakış](#2-block-diyagram-ve-pcblere-genel-bakış)
       * [2.1 Transmitter Kit'e Genel Bakış](#21-transmitter-kite-genel-bakış)
         * [Üstten Görünüş](#Üstten-görünüş)
@@ -22,7 +22,7 @@
 # 1. Genel Bakış
  &emsp;Kullanıcıların, **Bluetooth**, **WiFi** ve **RF** haberleşme teknolojileri üzerine geliştirme yapmak, programlamayı eğlenceli kılmak aynı zamanda uygulamaya yönelik öğrenme becerilerini geliştirmek amacıyla **alıcı** ve **verici** devresi olarak tasarlanmış bir geliştirme kartıdır. Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birçok desteğini de arkasına alan, fiyat performans kalitesi olarak da öne çıkan ESP32 cipset ailesinin işlevselliğini değerlendirmelerine olanak sağlamaktadır. Bu kit ( Pi_CAR Joystick Kartı ), uygulama geliştiricilerinin fikirlerini ESP32 serisi donanımı etrafında (RC-CAR Araç kontrol Senaryosu üzerine kurularak) oluşturmasına yardımcı olan temel donanım ( BLE 4.2, WiFi, RF ) ve yazılım kaynaklarını sağlar. Pi_CAR Joystick Kartı yazılım geliştirme çerçevesi,**Wi-Fi**, **Bluetooth**,**RF**, güç yönetimi ve diğer bazı sistem özellikleri ile hızla gelişen **Nesnelerin İnterneti (IoT) uygulamları** ve **Robotik (ROS (Robot Operating System)) uygulamaları** geliştirmek için tasarlanmıştır. 
 
-## 1.1 Pi_CAR Joystick Kartının Temel Amaçlar ve Kazandırması Beklenen Tecrübeler
+## 1.1 Amaç ve Hedefler
 
 * ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi
   * ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
