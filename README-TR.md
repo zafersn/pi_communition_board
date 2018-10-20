@@ -4,7 +4,7 @@
 
 <!--ts-->
    * [1. Genel Bakış](#1-genel-bakış)
-      * [1.1 Pi_CAR Joystick Kartının Temel Amaçlar ve Kazandırması Beklenen Tecrübeler](#1-genel-bakış)
+      * [1.1 Pi_CAR Joystick Kartının Temel Amaçlar ve Kazandırması Beklenen Tecrübeler](#11-pi_car-joystick-kartının-temel-amaçlar-ve-kazandırması-beklenen-tecrübeler)
    * [2. Block Diyagram ve PCB'Lere Genel Bakış](#2-block-diyagram-ve-pcblere-genel-bakış)
       * [2.1 Transmitter Kit'e Genel Bakış](#21-transmitter-kite-genel-bakış)
         * [Üstten Görünüş](#Üstten-görünüş)
