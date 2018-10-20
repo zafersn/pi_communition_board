@@ -31,17 +31,21 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
 **4.** ROS (Robot Operating System) uygulamaları geliştirme. 
 
 ### 1.1.2 Kazanılması Beklenen Tecrübeler
- **1.a.** ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
- **1.b.** Arduino IDE ile programlama ve kullanım.
+ **1.a.** ESP32'nin ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
+ **1.b.** ESP32'nin Arduino IDE ile programlama ve kullanım.
  **1.c.** Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
  **1.d.** Debugging ( GDB kullanılarak hata ayıklama )
  
- **2.a.** TCP, UDP Uygulamaları 
+ **2.a.** Bluetooth, WiFi, RF Uygulamaları geliştirme
+ **2.b.** TCP, UDP Uygulamaları geliştirme
  
  **3.a.** MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
 
-**4.a.** ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, kullanılabilir araçları vb. kullanılması ve oluşturulması.
- **4.b.** Gazebosim kullanımı, ROS ile haberleştirilmesi,
+ **4.a.** ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, araçları kullanılması ve oluşturulması.
+ **4.b.** Gazebosim araçlarının kullanımı, modelleme, simülasyon ve ROS ile haberleştirilmesi.
+ 
+ 
+ 
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
 # 2. Block Diyagram ve PCB'Lere Genel Bakış
