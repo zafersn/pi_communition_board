@@ -20,7 +20,16 @@
 
 # 1. Genel Bakış
  &emsp;Kullanıcıların, **``Bluetooth``**, **``WiFi``** ve **``RF``** haberleşme teknolojileri üzerine geliştirme yapmak, programlamayı eğlenceli kılmak aynı zamanda uygulamaya yönelik öğrenme becerilerini geliştirmek amacıyla **``alıcı``** ve **``verici``** devresi olarak tasarlanmış bir geliştirme kartıdır.<br>
-Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birçok desteğini de arkasına alan, fiyat performans kalitesi olarak da öne çıkan ESP32 cipset ailesinin işlevselliğini değerlendirmelerine olanak sağlamaktadır. Bu kit ( Pi_CAR Haberleşme Kartı ), uygulama geliştiricilerinin fikirlerini ESP32 serisi donanımı etrafında (RC-CAR Araç kontrol Senaryosu üzerine kurularak) oluşturmasına yardımcı olan temel donanım ( BLE 4.2, WiFi, RF ) ve yazılım kaynaklarını sağlar. Pi_CAR Haberleşme Kartı yazılım geliştirme çerçevesi,**`` Wi-Fi``**, **``Bluetooth``**,**`` RF``**, güç yönetimi ve diğer bazı sistem özellikleri ile hızla gelişen **``İnternet Nesneleri (IoT) uygulamları``** ve **``Robotik (ROS (Robot Operating System)) uygulamaları``** geliştirmek için tasarlanmıştır.
+Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birçok desteğini de arkasına alan, fiyat performans kalitesi olarak da öne çıkan ESP32 cipset ailesinin işlevselliğini değerlendirmelerine olanak sağlamaktadır. Bu kit ( Pi_CAR Joystick Kartı ), uygulama geliştiricilerinin fikirlerini ESP32 serisi donanımı etrafında (RC-CAR Araç kontrol Senaryosu üzerine kurularak) oluşturmasına yardımcı olan temel donanım ( BLE 4.2, WiFi, RF ) ve yazılım kaynaklarını sağlar. Pi_CAR Joystick Kartı yazılım geliştirme çerçevesi,**`` Wi-Fi``**, **``Bluetooth``**,**`` RF``**, güç yönetimi ve diğer bazı sistem özellikleri ile hızla gelişen **``Nesnelerin İnterneti (IoT) uygulamları``** ve **``Robotik (ROS (Robot Operating System)) uygulamaları``** geliştirmek için tasarlanmıştır. 
+
+## 1.1 Pi_CAR Joystick Kartı Amaçları
+### 1.1.1 Temel Amaçlar
+**1-** ESP32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi <br> 
+**2-** Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme <br> 
+**3-** Nesnelerin İnterneti (IoT) uygulamları geliştirme, MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform <br> 
+**4-** ROS (Robot Operating System) uygulamaları geliştirme. <br> 
+
+
 
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
@@ -67,6 +76,7 @@ Adet | Ürün Adı | Açıklama
 1 | Güç Girişi | 6V - 18V
 1 | Micro USB | Programlama ve haberleşme için USB 'den seri bağlantı dönüştürücü
 1 | JTAG Debugging | Programlama ve Debug için.
+1 |  Kart Boyutları  99 x 61 mm | RF SMA Anten Dahil Değil
 
 
 ## 2.2 Receive Kit'e Genel Bakış
@@ -103,6 +113,8 @@ Adet | Ürün Adı | Açıklama
 1 | JTAG Debugging | Programlama ve Debug için.
 1 | FPV Camera Girişi |
 40| Harici I/O | PWM/SPI/USART/I2C/GPIO
+1 |  Kart Boyutları 89 x 52 mm | RF SMA Anten Dahil Değil
+
 
 # 3. Örnek Uygulama Videoları
 
