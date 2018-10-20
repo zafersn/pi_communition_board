@@ -24,13 +24,24 @@ Arduino IDE' nin geniş kütüphane, hızlı programlama ve sadeliği gibi birç
 
 ## 1.1 Pi_CAR Joystick Kartı Amaçları
 ### 1.1.1 Temel Amaçlar
-**1-** ESP32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi <br> 
-**2-** Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme <br> 
-**3-** Nesnelerin İnterneti (IoT) uygulamları geliştirme, MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform <br> 
-**4-** ROS (Robot Operating System) uygulamaları geliştirme. <br> 
 
+**1.** ESP32-WROOM-32'nin yapısı, fonsiyonu ve uygulamalarının geliştirilmesi 
+**2.** Bluetooth, WiFi, RF Haberleşme Protokolleri öğrenme ve uygulamalar geliştirme 
+**3.** Nesnelerin İnterneti (IoT) uygulamları geliştirme
+**4.** ROS (Robot Operating System) uygulamaları geliştirme. 
 
+### 1.1.2 Kazanılması Beklenen Tecrübeler
+ **1.a.** ESP-IDF ile programlama ve kullanım. (Eclipse üzerinde)
+ **1.b.** Arduino IDE ile programlama ve kullanım.
+ **1.c.** Wi-Fi, Bluetooth, Mesh Network, Peripherals (ADC, SPI, UART, TIMER, PWM, GPIO Vb...), Storage (MicroSD), System (FreeRTOS, Watchdogs, Over The Air Updates (OTA), High Resolution Timer Vb...) kullanımı.
+ **1.d.** Debugging ( GDB kullanılarak hata ayıklama )
+ 
+ **2.a.** TCP, UDP Uygulamaları 
+ 
+ **3.a.** MQTT, HTTP haberleşme protokollerini öğrenme, IBM Watson IoT Platform ya da IVEN Bulut Platform kullanarak uygulama geliştirme
 
+**4.a.** ROS(Robot Operating System) yapısı (Nodes, Topics, Messages, Publisher, Subscriber, Services vs...), kütüphaneleri, kullanılabilir araçları vb. kullanılması ve oluşturulması.
+ **4.b.** Gazebosim kullanımı, ROS ile haberleştirilmesi,
 ![overview](https://github.com/zafersn/pi_communition_board/blob/master/img/Block%20Diagram4.png)
 
 # 2. Block Diyagram ve PCB'Lere Genel Bakış
