@@ -87,6 +87,10 @@ Piece | Product Name | Description
 1 |  Board size 99 x 61 mm | Without RF SMA Anten 
 
 ## 2.2 Receive Kit Overview
+The main purpose of the Pi_CAR Receive card is to communicate with the Transmitter card via NRF24L01.
+
+It is aimed to send the data(Sensors etc..) to the transmitter card from the system where the receiver card(RC-CAR, Drone etc.)  is connected and to perform the necessary operations on the robot by making sense of the data coming from the transmitter card.
+
 Top View
 =================
 ![Top View render block diagram](https://github.com/zafersn/pi_communition_board/blob/master/img/Rx_BOARD.png)
