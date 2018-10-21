@@ -91,6 +91,8 @@ Adet | Ürün Adı | Açıklama
 
 ## 2.2 Receive Kit'e Genel Bakış
 
+Pi_CAR Receive kartı'nın temel amacı Transmitter kartı ile NRF24L01 üzerinden haberleşmesidir. Receive kartı ile bağlı bulunduğu sistemden(RC-CAR, Drone vs.) verileri(Sensör vs..) Transmitter kartına göndermek ve transmitter kartından gelen verileri anlamlandırarak robot üzerinde gerekli işlemleri yerine getirmesi hedeflenmektedir.
+
 Üstten Görünüş
 =================
 
