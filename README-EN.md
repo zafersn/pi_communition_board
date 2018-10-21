@@ -17,6 +17,7 @@ Table of contents
    * [3. Sample Demo Videos](#3-sample-demo-videos)
         * [Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)](#pi_car-joystick-board-with-ros-gazebocustom-joytick-board)
         * [Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board)](#pi_car-joystick-board-with-ros-turtlesim-custom-joytick-board)
+        * [Testing of Pi_CAR Joystick Board on Real RC-CAR](#testing-of-pi_car-joystick-board-on-real-rc-car)
 <!--te-->
 
 # 1. Overview
@@ -129,3 +130,8 @@ Pi_CAR Joystick Board with ROS GAZEBO(Custom Joytick Board)
 Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board)
 =================
 [![Pi_CAR Joystick Board with ROS Turtlesim (Custom Joytick Board))](https://img.youtube.com/vi/Qxs-DMT6eOg/0.jpg)](https://youtu.be/Qxs-DMT6eOg)
+
+Testing of Pi_CAR Joystick Board on Real RC-CAR
+=================
+[![Testing of Pi_CAR Communication Board on Real RC-CAR](https://img.youtube.com/vi/O7l2V9Dhggc/0.jpg)](https://youtu.be/O7l2V9Dhggc)
+
