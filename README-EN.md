@@ -47,7 +47,7 @@ Table of contents
 # 2. Block Diagram and PCBs Overview
 
 ## 2.1 Transmitter Kit Overview
-&emsp;Our Pi_CAR Transmitter Card can be used by configuring 2 Thumb Joysticks or 1 Thumb joystick and 4 Tact Switch Buttons.The Transmitter card enables the connection between the user and the received card to be approximately 1KM over RF. In addition, it enables the user to communicate with nearby peripherals and develop specific applications via Bluetooth and WiFi connection.(VR, Cloud, Phone App, pc etc...).
+&emsp;Our Pi_CAR Transmitter Card can be used by configuring 2 Thumb Joysticks or 1 Thumb joystick and 4 Tact Switch Buttons. The Transmitter card enables the connection between the user and the received card to be approximately 1KM over RF. In addition, it enables the user to communicate with nearby peripherals and develop specific applications via Bluetooth and WiFi connection (VR, Cloud, Phone App, pc etc...).
 
 Top View
 =================
