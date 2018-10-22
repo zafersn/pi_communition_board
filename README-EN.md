@@ -21,7 +21,7 @@ Table of contents
 <!--te-->
 
 # 1. Overview
-&emsp;  It is a development board(**Pi_CAR JOYSTICK BOARD**) designed as a receiver and transmitter circuit for users to develop themselves on **Bluetooth**, **WiFi** and **RF** communication technologies, to make programming fun, and to develop application-oriented learning skills. Arduino IDE's extensive library, fast programming and simplicity, such as support behind many, as the price performance quality of the prominent ESP32 chipset family allows you to evaluate the functionality. This kit (Pi_CAR Communication Card) provides basic hardware (BLE 4.2, WiFi, RF) and software resources that help application developers build their ideas around the ESP32 series hardware (based on the RC-CAR Vehicle control Scenario).The Pi_CAR Communication Card software development framework is designed to develop fast-growing  **Internet of Things (IoT)** applications and  **Robotics (ROS (Robot Operating System))** applications with  **Wi-Fi**,  **Bluetooth**,  **RF**, power management and some other system features.
+&emsp;  Pi_CAR JOYSTICK BOARD which is a development board designed as a receiver and transmitter circuit for users to develop themselves on **Bluetooth**, **WiFi**, and **RF** communication technologies, to make programming fun, and to develops application-oriented learning skills. Arduino IDE's extensive library, fast programming and simplicity, such as support behind many, as the price performance quality of the prominent ESP32 chipset family allows you to evaluate the functionality. This kit (Pi_CAR Communication Card) provides basic hardware (BLE 4.2, WiFi, RF) and software resources that help application developers build their ideas around the ESP32 series hardware (based on the RC-CAR Vehicle control Scenario).The Pi_CAR Communication Card software development framework is designed to develop fast-growing  **Internet of Things (IoT)** applications and  **Robotics (ROS (Robot Operating System))** applications with  **Wi-Fi**,  **Bluetooth**,  **RF**, power management and some other system features.
 
 ## 1.1 Goals and Objectives
 
@@ -47,7 +47,7 @@ Table of contents
 # 2. Block Diagram and PCBs Overview
 
 ## 2.1 Transmitter Kit Overview
-&emsp;Our Pi_CAR Transmitter Card can be used by configuring 2 Thumb Joysticks or 1 Thumb joystick and 4 Tact Switch Buttons.The Tranmitter card enables the connection between the user and the receive card to be approximately 1KM over RF. In addition, it enables the user to communicate with nearby peripherals and develop specific applications via Bluetooth and WiFi connection.(VR, Cloud, Phone App, pc etc...).
+&emsp;Our Pi_CAR Transmitter Card can be used by configuring 2 Thumb Joysticks or 1 Thumb joystick and 4 Tact Switch Buttons.The Transmitter card enables the connection between the user and the received card to be approximately 1KM over RF. In addition, it enables the user to communicate with nearby peripherals and develop specific applications via Bluetooth and WiFi connection.(VR, Cloud, Phone App, pc etc...).
 
 Top View
 =================
